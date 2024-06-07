@@ -16,3 +16,8 @@ This component provides a file upload interface that allows users to upload file
 - Replace 'YOUR_UPLOAD_URL' with your actual file upload URL.
 - Supported file types and size limit are enforced in the handleFile function.
 - The progress bar and success indicator provide feedback during the file upload process.
+
+
+## Preview
+
+![File Upload Component Preview](https://github.com/AroshaRavishan/-File-Select-Component-Vue3/blob/main/Vue3%20File%20Upload.png)
